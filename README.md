@@ -1,5 +1,5 @@
 # AR-Navigation-App
-<u>`Location Based Augmented Reality Navigation Application,IJSRCSEIT,MAY 2019`(https://ijsrcseit.com/CSEIT195340)</u>
+`[Location Based Augmented Reality Navigation Application,IJSRCSEIT,MAY 2019]`(https://ijsrcseit.com/CSEIT195340)
 
 # Inspiration
 The problem occuring in traditional mapping is not proper 
