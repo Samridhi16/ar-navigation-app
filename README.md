@@ -12,7 +12,7 @@ This problem can be solved as we would be providing a 3D view . Along with a gen
 Augmented Reality Navigation App created using Unity3D and Google ARCore. This App provides navigation with the help of Camera and a virtual 3D object which will guide us to our destination in a user friendly way.
 
 # Application
-https://user-images.githubusercontent.com/26019260/164948651-af8d8954-eee8-41ad-b3a4-aef155d3a583.mp4
+https://user-images.githubusercontent.com/26019260/164948696-2e562017-5ece-465f-a34f-5f6a88228317.mp4
 
 # Built With
 * C#
